@@ -1,0 +1,20 @@
+{
+    "files.associations": {
+        "inode.h": "c",
+        "pagedir.h": "c",
+        "variant": "c",
+        "frame.h": "c",
+        "file.h": "c",
+        "condition_variable": "cpp",
+        "*.tcc": "cpp",
+        "fstream": "cpp",
+        "mutex": "cpp",
+        "ostream": "cpp",
+        "stop_token": "cpp",
+        "bitmap.h": "c",
+        "swap.h": "c",
+        "stdlib.h": "c",
+        "string": "c"
+    },
+    "C_Cpp.errorSquiggles": "enabled"
+}
